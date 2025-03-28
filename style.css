@@ -49,3 +49,28 @@ body{
     font-size: 20px;
     text-decoration: none;
 }
+
+.auto-play {
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+    background-color: rgb(1, 104, 145);
+    border-radius: 50px;
+    border: none;
+    color:rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.yes-button, .no-button {
+    height: 30px;
+    width: 50px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    border: none;
+    color:rgb(0, 0, 0);
+    font-weight: 500;
+    font-size: 14px;
+}
